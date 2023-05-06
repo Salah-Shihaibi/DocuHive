@@ -1,0 +1,14 @@
+.dccache
+.vscode
+__pycache__
+.idea
+instance
+.DS_Store
+tmp.jpg
+data
+coverage.xml
+.coverage
+.history
+erl_crash.dump
+CM
+.env
