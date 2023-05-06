@@ -1,4 +1,4 @@
-# ITo start the BE run:
+# To start the application run:
 ```shell
 poetry install
 poetry run python DocuHive/main.py
